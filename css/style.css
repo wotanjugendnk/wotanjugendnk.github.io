@@ -1,0 +1,57 @@
+* {
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo {
+    border: 1px solid red;
+    margin: 30px 20px 70px 60px;
+    /*padding: ;*/
+}
+.margin-padding {
+    border: 1px solid red;
+    margin: 100px;
+    padding: 50px;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    /*width: 200px;*/
+    margin: 20px auto;
+}
+li {
+    display: inline-block;
+    /*border: 1px solid red;*/
+    padding: 30px;
+}
+.menu {
+    border: 2px solid red;
+    padding: 25px;
+    margin-right: 150px;
+    margin-top: 35px;
+    float: right;
+    padding-bottom: 30px;
+    ;
+}
+.logo {
+    border: 2px solid red;
+    padding: 20px;}
+.header {
+    border: 2px solid red;
+    padding: px;
+
+}
+.text {
+    border: 2px solid red;
+    padding: 20px;
+    text-align: center;
+
+}
+.menu1 {
+    border: 2px solid red;
+    padding:25px;
+    text-align: center;
+
+}
